@@ -1,0 +1,18 @@
+#dice_1{
+    font-size: 20px;
+    text-align: center;
+    background-color: blue;
+    color: black;
+    font-weight:bolder;
+    padding: 25px 30px 25px 30px;
+   
+}
+#dice_2{
+    font-size: 20px;
+    text-align: center;
+    background-color:green;
+    color: black;
+    font-weight:bolder;
+    padding: 25px 30px 25px 30px;
+   
+}
